@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/product-preview-card-_YKLQHrRK_](https://www.frontendmentor.io/solutions/product-preview-card-_YKLQHrRK)
+- Solution URL: [https://www.frontendmentor.io/solutions/product-preview-card-_YKLQHrRK_](https://www.frontendmentor.io/solutions/product-preview-card-_YKLQHrRK_)
 - Live Site URL: [https://pricard0.github.io/product-preview-card-component/](https://pricard0.github.io/product-preview-card-component/)
 
 ### Built with
