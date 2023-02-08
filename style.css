@@ -3,7 +3,6 @@
 
 body {
     background-color: hsl(30, 38%, 92%);
-    min-width: 100vw;
     min-height: 100vh;
     margin: 0px;
     display: flex;
