@@ -41,20 +41,20 @@ header {
 
 h1 {
     font-family: 'Fraunces', sans-serif;
-    font-size: 2em;
+    font-size: 2rem;
     color: hsl(212, 21%, 14%);
     line-height: 1;
     margin: 25px 0px;
 }
 
 .text {
-    font-size: 0.875em;
+    font-size: 0.875rem;
     line-height: 1.6;
     color: hsl(228, 12%, 48%)
 }
 
 .prices {
-    font-size: 2em;
+    font-size: 2rem;
     margin: 25px 0px;
     display: flex;
     align-items: center;
