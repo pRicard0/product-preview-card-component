@@ -65,6 +65,7 @@ h1 {
     font-family: 'Fraunces', sans-serif;
     font-style: normal;
     color: hsl(158, 36%, 37%);
+    text-shadow: 1px 0px 0px hsl(158, 35%, 20%);
 }
 
 .prices s {
